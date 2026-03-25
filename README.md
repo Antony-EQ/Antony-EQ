@@ -71,7 +71,8 @@
 <div align="center">
   <p><b>Profile Visitors</b></p>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Antony-EQ&icon=0&color=0" alt="Visit count">
+    <img src="https://visitcount.itsvg.in/api?id=Antony-EQ&label=Profile%20Views&color=1&icon=2&pretty=true" />
   </a>
+ 
 </div>
 <!-- Proudly created with GPRM & enhanced by AI -->
