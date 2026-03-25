@@ -16,11 +16,11 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:tunombre@correo.com">
+  <a href="mailto:eq.antony06@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
-    <<img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/gabo99/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
@@ -64,19 +64,32 @@
 
 ### 📊 GitHub Activity & Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antony-EQ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="Antony's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antony-EQ&theme=radical&hide_border=false" alt="Antony's Streak stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Antony-EQ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Antony's GitHub stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antony-EQ&theme=tokyonight&hide_border=true" alt="Antony's Streak stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-EQ&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antony-EQ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A970FF&center=true&vCenter=true&width=435&lines=Building+web+applications...;Solving+complex+problems...;Always+learning+new+tech..." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote">
+</div>
+
+<br>
+
+<div align="center">
   <p><b>Profile Visitors</b></p>
   <img src="https://komarev.com/ghpvc/?username=Antony-EQ&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
+  <p><i>Thanks for visiting! Let's build something amazing together 🚀</i></p>
 </div>
 <!-- Proudly created with GPRM & enhanced by AI -->
